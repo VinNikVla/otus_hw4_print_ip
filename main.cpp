@@ -1,3 +1,6 @@
+/// @file main.cpp
+/// @brief OTUS ДЗ№4 SFINAE, Doxygen
+
 // Local
 #include "print_ip.h"
 
