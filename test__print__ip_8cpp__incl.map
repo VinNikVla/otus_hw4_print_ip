@@ -1,0 +1,21 @@
+<map id="test_print_ip.cpp" name="test_print_ip.cpp">
+<area shape="rect" id="Node000001" title="Тестирование функции print_ip(const T&amp; value)" alt="" coords="298,5,414,31"/>
+<area shape="rect" id="Node000002" href="$print__ip_8h.html" title="Шаблонная функция для вывода IP&#45;адресов, без проверки на корректность" alt="" coords="266,79,339,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="349,33,323,68,319,65,345,30"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="364,79,457,105"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="367,30,394,65,390,68,363,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,80,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,106,95,153,94,147,265,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="104,153,165,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="275,108,178,149,176,144,273,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="188,153,260,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="291,107,250,144,247,140,287,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="283,153,322,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="305,105,305,137,300,137,300,105"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="345,153,399,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="316,103,352,140,348,143,312,107"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="423,153,505,178"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="331,103,424,144,421,148,329,108"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="529,153,586,178"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="340,101,514,149,513,154,339,106"/>
+</map>
